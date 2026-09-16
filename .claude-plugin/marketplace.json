@@ -1,0 +1,14 @@
+{
+	"name": "agent-issues",
+	"description": "Agent Issues plugins for agent integrations.",
+	"owner": {
+		"name": "Agent Issues contributors"
+	},
+	"plugins": [
+		{
+			"name": "agent-issues",
+			"source": "./",
+			"version": "0.2.0"
+		}
+	]
+}
