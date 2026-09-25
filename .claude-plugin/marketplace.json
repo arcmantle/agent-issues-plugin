@@ -8,7 +8,7 @@
 		{
 			"name": "agent-issues",
 			"source": "./",
-			"version": "0.2.17"
+			"version": "0.2.22"
 		}
 	]
 }
